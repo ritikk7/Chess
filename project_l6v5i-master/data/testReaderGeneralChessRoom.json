@@ -1,0 +1,386 @@
+[
+  {
+    "ChessPiece": "Rook",
+    "YPos": 0,
+    "XPos": 0,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "Knight",
+    "YPos": 0,
+    "XPos": 1,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "Bishop",
+    "YPos": 0,
+    "XPos": 2,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "King",
+    "YPos": 0,
+    "XPos": 3,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "Queen",
+    "YPos": 0,
+    "XPos": 4,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "Bishop",
+    "YPos": 0,
+    "XPos": 5,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "Knight",
+    "YPos": 0,
+    "XPos": 6,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "Rook",
+    "YPos": 0,
+    "XPos": 7,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "Pawn",
+    "YPos": 1,
+    "XPos": 0,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "Pawn",
+    "YPos": 1,
+    "XPos": 1,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "Pawn",
+    "YPos": 1,
+    "XPos": 2,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 1,
+    "XPos": 3,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "Pawn",
+    "YPos": 1,
+    "XPos": 4,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "Pawn",
+    "YPos": 1,
+    "XPos": 5,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "Pawn",
+    "YPos": 1,
+    "XPos": 6,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "Pawn",
+    "YPos": 1,
+    "XPos": 7,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 2,
+    "XPos": 0,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 2,
+    "XPos": 1,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 2,
+    "XPos": 2,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "Pawn",
+    "YPos": 2,
+    "XPos": 3,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 2,
+    "XPos": 4,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 2,
+    "XPos": 5,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 2,
+    "XPos": 6,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 2,
+    "XPos": 7,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 3,
+    "XPos": 0,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 3,
+    "XPos": 1,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 3,
+    "XPos": 2,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 3,
+    "XPos": 3,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 3,
+    "XPos": 4,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 3,
+    "XPos": 5,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 3,
+    "XPos": 6,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 3,
+    "XPos": 7,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 4,
+    "XPos": 0,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 4,
+    "XPos": 1,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 4,
+    "XPos": 2,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 4,
+    "XPos": 3,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 4,
+    "XPos": 4,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 4,
+    "XPos": 5,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 4,
+    "XPos": 6,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 4,
+    "XPos": 7,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 5,
+    "XPos": 0,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 5,
+    "XPos": 1,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 5,
+    "XPos": 2,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 5,
+    "XPos": 3,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 5,
+    "XPos": 4,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 5,
+    "XPos": 5,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 5,
+    "XPos": 6,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "EmptySpace",
+    "YPos": 5,
+    "XPos": 7,
+    "PieceColour": true
+  },
+  {
+    "ChessPiece": "Pawn",
+    "YPos": 6,
+    "XPos": 0,
+    "PieceColour": false
+  },
+  {
+    "ChessPiece": "Pawn",
+    "YPos": 6,
+    "XPos": 1,
+    "PieceColour": false
+  },
+  {
+    "ChessPiece": "Pawn",
+    "YPos": 6,
+    "XPos": 2,
+    "PieceColour": false
+  },
+  {
+    "ChessPiece": "Pawn",
+    "YPos": 6,
+    "XPos": 3,
+    "PieceColour": false
+  },
+  {
+    "ChessPiece": "Pawn",
+    "YPos": 6,
+    "XPos": 4,
+    "PieceColour": false
+  },
+  {
+    "ChessPiece": "Pawn",
+    "YPos": 6,
+    "XPos": 5,
+    "PieceColour": false
+  },
+  {
+    "ChessPiece": "Pawn",
+    "YPos": 6,
+    "XPos": 6,
+    "PieceColour": false
+  },
+  {
+    "ChessPiece": "Pawn",
+    "YPos": 6,
+    "XPos": 7,
+    "PieceColour": false
+  },
+  {
+    "ChessPiece": "Rook",
+    "YPos": 7,
+    "XPos": 0,
+    "PieceColour": false
+  },
+  {
+    "ChessPiece": "Knight",
+    "YPos": 7,
+    "XPos": 1,
+    "PieceColour": false
+  },
+  {
+    "ChessPiece": "Bishop",
+    "YPos": 7,
+    "XPos": 2,
+    "PieceColour": false
+  },
+  {
+    "ChessPiece": "King",
+    "YPos": 7,
+    "XPos": 3,
+    "PieceColour": false
+  },
+  {
+    "ChessPiece": "Queen",
+    "YPos": 7,
+    "XPos": 4,
+    "PieceColour": false
+  },
+  {
+    "ChessPiece": "Bishop",
+    "YPos": 7,
+    "XPos": 5,
+    "PieceColour": false
+  },
+  {
+    "ChessPiece": "Knight",
+    "YPos": 7,
+    "XPos": 6,
+    "PieceColour": false
+  },
+  {
+    "ChessPiece": "Rook",
+    "YPos": 7,
+    "XPos": 7,
+    "PieceColour": false
+  }
+]
